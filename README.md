@@ -2,6 +2,8 @@
 
 🚀 A custom-designed **laptop cooling pad** focused on ergonomics, airflow optimization, and user-centric features — developed during a competitive CAD design challenge.
 
+![Cooling Pad Render](https://github.com/MAATHES-THILAK-K/Cooling-Pad-12V/blob/main/Screenshot%202026-05-01%20022834.png?raw=true)
+
 ---
 
 ## 🔗 Project Link
